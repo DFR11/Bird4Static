@@ -13,13 +13,13 @@
 2) Выполнить:
     ```bash
     opkg install git git-http
-    git clone https://github.com/DennoN-RUS/Bird4Static.git
+    git clone https://github.com/DFR11/Bird4Static.git
     chmod +x ./Bird4Static/*.sh
     ./Bird4Static/install.sh 
     ```
     Далее выбирать нужные параметры.
 
-Более подробная инструкция установки и описание [тут](https://github.com/DennoN-RUS/Bird4Static/wiki/Установка)
+Более подробная инструкция установки и описание [тут](https://github.com/DFR11/Bird4Static/wiki/Установка)
 
 ---
 Веб-интерфейс: [web4static](https://github.com/spatiumstas/web4static)
